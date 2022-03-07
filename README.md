@@ -4,4 +4,4 @@
 
 Grove Beginner Kit for Arduino
 
-This example shows how to check the state of a button.
+This example shows how to check the state of a button and print result.
